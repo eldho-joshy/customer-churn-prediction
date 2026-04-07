@@ -21,7 +21,7 @@ Before building the models, I performed deep EDA to understand the "signals" of 
 * **Pricing Sensitivity:** Higher monthly charges are a primary driver for customers looking for alternatives.
 * **Service Patterns:** Surprisingly, Fiber Optic users show higher churn than DSL users, suggesting potential service-specific friction.
 * **Loyalty Factor:** Customers who stay past the 2-year mark become exponentially more stable.
-
+[Customer Churn Analysis Dashboard](https://github.com/eldho-joshy/customer-churn-prediction/blob/main/Visual%20output.png)
 
 
 ---
