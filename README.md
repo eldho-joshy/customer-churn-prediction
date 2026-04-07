@@ -1,5 +1,4 @@
-# 📉 Telco Churn: 
-  # Why Customers Leave & How to Reduce It
+# 📉 Telco Customer Churn: Predictive Analysis & Retention Strategy
 ### **A Data Science Project on Predictive Customer Retention**
 
 Hi 👋 I'm **Eldho Joshy**, a Data Science student. This project focuses on understanding the underlying patterns of customer behavior and building a machine learning pipeline to predict churn before it happens.
